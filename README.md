@@ -22,3 +22,4 @@ Później możesz podpiąć np.:
 api.divebuddy.pl
 
 do tego projektu w Vercel i aplikacja nie będzie musiała zmieniać backendu.
+deploy
